@@ -8,10 +8,6 @@ import Header from './components/Header';
  */
 
 
-123
-123
-123
-
 
 function App() {
   const projects = useState(['Desenvolvimento de app', 'Front-end web']);
